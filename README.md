@@ -23,4 +23,5 @@ Added semantic elements
 Separated the elements in the webpage for easier editing and 
 Added alt attributes for the images
 Added logical structure for the headings
-
+Added a concise, descriptive title
+Cleaned CSS
