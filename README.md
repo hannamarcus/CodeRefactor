@@ -30,6 +30,5 @@ URL of deployed application: https://hannamarcus.github.io/CodeRefactor/
 
 Screenshots:
 <img width="1379" alt="Screen Shot 2022-06-15 at 11 39 45 PM" src="https://user-images.githubusercontent.com/106893601/174007856-4d018b8f-a902-4f54-86b6-5b5a12c52c3e.png">
-<img width="1079" alt="Screen Shot 2022-06-15 at 11 39 58 PM" src="https://user-images.githubusercontent.com/106893601/174007869-40e26926-59d1-4b51-88c7-91db10e79d92.png">
 <img width="1381" alt="Screen Shot 2022-06-15 at 11 40 04 PM" src="https://user-images.githubusercontent.com/106893601/174007878-7f80430c-a722-414a-8b8e-9ca9d0e0b12a.png">
 
